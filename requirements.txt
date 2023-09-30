@@ -1,0 +1,7 @@
+cohere==4.27
+datasets==2.14.5
+evaluate==0.4.0
+numpy==1.25.1
+pandas==2.1.1
+python-dotenv==1.0.0
+transformers==4.33.2
